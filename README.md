@@ -15,7 +15,7 @@ Express,
 PostgreSQL
 
 
-📚 Actualmente estoy cursando el <a href="soyhenry.com" >Bootcamp de Henry</a> <br/>
+📚 Actualmente estoy cursando el <a href="https://www.soyhenry.com/" >Bootcamp de Henry</a> <br/>
 👔  https://www.linkedin.com/in/nahuelmonserrat/ <br/>
 🌐 Portfolio en progreso...
 
