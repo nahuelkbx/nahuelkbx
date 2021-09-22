@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola👋, soy Nahuel Monserrat!
+
+Soy un desarrollador full stack sin preferencia por el front ni el back, me gustan por igual los dos.
+
+📚 Actualmente estoy cursando el <a href="soyhenry.com">Bootcamp de Henry</a>
+
+
 
 <!--
 **nahuelkbx/nahuelkbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
