@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nahuel Monserrat</h1>
-<h3 align="center">Soy un desarrollador full stack sin preferencia por el front ni el back, me encantan los dos por igual. Me gustan los desafíos, enseñar, competir y aprender</h3>
+<h3 align="center">I'm a fullstack developer with no preference for Frontend or Backend,  I'm love teaching, challenges and learn everyday🤓</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahuelkbx" alt="nahuelkbx" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript y MongoDB**
 
 - 📫 How to reach me **nahueltomasmonserrat@gmail.com**
+
+- 🌐 Portfolio in progress...
+
+- 📚 Actually i'm doing <a  target="_blank" href="https://www.soyhenry.com/%22%3E" Bootcamp de Henry</a> <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
