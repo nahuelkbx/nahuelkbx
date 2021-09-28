@@ -9,7 +9,6 @@
 
 - 🌐 Portfolio in progress...
 
-- 📚 Actually i'm doing <a  target="_blank" href="https://www.soyhenry.com/%22%3E" Bootcamp de Henry</a> <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
