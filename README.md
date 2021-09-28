@@ -3,11 +3,13 @@
 
 
 
-- 🌱 I’m currently learning **Typescript and MongoDB**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **nahueltomasmonserrat@gmail.com**
 
 - 🌐 Portfolio in progress...
+
+- 📚  I'm currently doing **Henry Bootcamp**
 
 
 <h3 align="left">Connect with me:</h3>
