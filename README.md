@@ -18,6 +18,7 @@
 </p>
 
 <h3 align="left">Some skills</h3>
+
 💻Front end:**React, Redux, CSS and JavaScript** 
 
 💻Back end:**NodeJS, Express** 
