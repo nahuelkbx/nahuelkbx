@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahuelkbx" alt="nahuelkbx" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript y MongoDB**
+- 🌱 I’m currently learning **Typescript and MongoDB**
 
 - 📫 How to reach me **nahueltomasmonserrat@gmail.com**
 
