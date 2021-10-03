@@ -26,9 +26,14 @@
 💻DataBase:**PostgreSQL**
 
 🤝Others:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dylangavilan&show_icons=true&locale=en" alt="nahuelkbx" /></p>****
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahuelkbx" alt="nahuelkbx" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelkbx&show_icons=true&locale=en&layout=compact" alt="nahuelkbx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelkbx&" alt="nahuelkbx" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahuelkbx" alt="nahuelkbx" /></a> </p>
+
+
+
