@@ -19,13 +19,13 @@
 
 <h3 align="left">Some skills</h3>
 
-💻Front end:**React, Redux, CSS and JavaScript** 
+💻 Front end:**React, Redux, CSS and JavaScript** 
 
-💻Back end:**NodeJS, Express** 
+💻 Back end:**NodeJS, Express** 
 
-💻DataBase:**PostgreSQL**
+💻 DataBase:**PostgreSQL**
 
-🤝Others:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
+🤝 Others:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelkbx&show_icons=true&locale=en&layout=compact" alt="nahuelkbx" /></p>
