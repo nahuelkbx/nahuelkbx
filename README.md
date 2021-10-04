@@ -9,7 +9,7 @@
 
 - 🌐 Portfolio in progress...
 
-- 📚  I'm currently doing **Henry Bootcamp**
+- 📚  I'm currently studying at **Henry Bootcamp**
 
 
 <h3 align="left">Connect with me:</h3>
