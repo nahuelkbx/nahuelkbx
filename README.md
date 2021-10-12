@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahuel Monserrat</h1>
-<h3 align="center">I'm a fullstack developer with no preference for Frontend or Backend,  I'm love teaching, challenges and learn everyday🤓</h3>
+<h3 align="center">I'm a fullstack developer i like both Frontend and the Backend,  I'm love teaching, challenges and learn everyday🤓</h3>
 
 
 
