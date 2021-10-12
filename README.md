@@ -25,7 +25,9 @@
 
 💻 DataBase:**PostgreSQL**
 
-🤝 Others:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
+💻 Others:**Git, Bootstrap, Heroku**
+
+🤝 Soft Skills:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelkbx&show_icons=true&locale=en&layout=compact" alt="nahuelkbx" /></p>
