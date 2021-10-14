@@ -11,6 +11,8 @@
 
 - 📚  I'm currently studying at **Henry Bootcamp**
 
+---
+
 <h3 align="left">Contact</h3>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahueltomasmonserrat@gmail.com)
