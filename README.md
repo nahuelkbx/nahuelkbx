@@ -11,6 +11,8 @@
 
 - 📚  I'm currently studying at **Henry Bootcamp**
 
+- 🤓 I'm currently working on E-ccomerce for Henry's Bootcamp graduation project
+
 ---
 
 <h3 align="left">Contact</h3>
