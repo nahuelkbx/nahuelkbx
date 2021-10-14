@@ -12,7 +12,7 @@
 - 📚  I'm currently studying at **Henry Bootcamp**
 
 
-
+<h3 align="left">Contact</h3>
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahueltomasmonserrat@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/nahuelmonserrat//)
 
