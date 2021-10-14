@@ -16,6 +16,8 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahueltomasmonserrat@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/nahuelmonserrat//)
 
+---
+
 <h3 align="left">Some skills</h3>
 
 💻 Front end:**React, Redux, CSS and JavaScript** 
@@ -28,6 +30,7 @@
 
 🤝 Soft Skills:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
 
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelkbx&show_icons=true&locale=en&layout=compact" alt="nahuelkbx" /></p>
 
