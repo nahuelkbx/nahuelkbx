@@ -17,7 +17,7 @@
 <h1 aling="center"> Projects </h1>
 <h2 aling="left"> ⚡ Mundi </h2>
 <p>I developed a SPA (Single Page Appllication) Using tecnologies like React, Redux and Css Native for frontend, the SPA consume data from REST COUNTRIES API across backend developed in Node.JS ussing Express.
-<a href='https://github.com/nahuelkbx/Mundi-Front'> 🌱 For more info click here !</a>
+<a href='https://github.com/nahuelkbx/Mundi'> 🌱 For more info click here !</a>
 </p>
 
 ![image](https://user-images.githubusercontent.com/73723295/137527482-15f33056-fac5-4fc8-bd02-72a7a5d964bf.png)
