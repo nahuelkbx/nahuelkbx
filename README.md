@@ -24,13 +24,6 @@
 
 ---
 
-<h3 align="left">Contact</h3>
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahueltomasmonserrat@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/nahuelmonserrat//)
-
----
-
 <h3 align="left">Some skills</h3>
 
 💻 Front end:**React, Redux, CSS and JavaScript** 
@@ -42,6 +35,13 @@
 💻 Others:**Git, Bootstrap, Heroku**
 
 🤝 Soft Skills:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
+
+---
+
+<h3 align="left">Contact</h3>
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahueltomasmonserrat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/nahuelmonserrat//)
 
 ---
 
