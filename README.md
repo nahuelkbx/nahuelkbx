@@ -9,9 +9,8 @@
 
 - 🌐 Portfolio in progress...
 
-- 📚  I'm currently studying at **Henry Bootcamp**
+- 📚  Graduated at **Henry Bootcamp**
 
-- 🤓 I'm currently working on E-ccomerce for Henry's Bootcamp graduation project
 
 ---
 <h1 aling="center"> Projects </h1>
