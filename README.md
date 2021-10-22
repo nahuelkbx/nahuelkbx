@@ -27,7 +27,7 @@
 <a href='https://somosolea.vercel.app/'> 🌱 Visit the page! </a>
 </p>
 
-![image](https://user-images.githubusercontent.com/73723295/138529369-6ee91545-71f2-45a7-b5cc-aa4e8534ff73.png)
+![image](https://user-images.githubusercontent.com/73723295/138529516-1479b970-9f52-437f-8325-e74c8266c8ad.png)
 
 
 ---
