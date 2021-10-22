@@ -17,10 +17,18 @@
 <h1 aling="center"> Projects </h1>
 <h2 aling="left"> 🌎 Mundi </h2>
 <p>I developed a SPA (Single Page Appllication) Using tecnologies like React, Redux and Css Native for frontend, the SPA consume data from REST COUNTRIES API across backend developed in Node.JS ussing Express.
-<a href='https://github.com/nahuelkbx/Mundi'> 🌱 For more info click here !</a>
+<a href='https://github.com/nahuelkbx/Mundi'> 🌎 For more info click here !</a>
 </p>
 
 ![image](https://user-images.githubusercontent.com/73723295/137527482-15f33056-fac5-4fc8-bd02-72a7a5d964bf.png)
+
+<h2 aling="left"> 🍂 Olea </h2>
+<p>I developed a E-commerce with 6 developers, Using tecnologies like React, Redux, Css for the Frontend and for the Backend used Node.JS and Express. For the Database used POSTGRESQL + Sequelize
+<a href='https://somosolea.vercel.app/'> 🌱 Visit the page! </a>
+</p>
+
+![image](https://user-images.githubusercontent.com/73723295/138529369-6ee91545-71f2-45a7-b5cc-aa4e8534ff73.png)
+
 
 ---
 
