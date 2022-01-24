@@ -9,7 +9,7 @@
 
 - 🌐 Portfolio in progress...
 
-- 📚  Graduated at **Henry Bootcamp**
+- 💻  Working at **soyHenry**
 
 
 ---
