@@ -1,36 +1,20 @@
-<h1 align="center">Hi 👋, I'm Nahuel Monserrat</h1>
-<h3 align="center">I'm a fullstack developer i like both Frontend and the Backend,  I'm love teaching, challenges and learn everyday🤓</h3>
+## Hi 👋, I'm Nahuel Monserrat
+Software Developer & Tech Lead <a href="https://www.soyhenry.com/">soyHenry</a>
 
+> I am a software developer with ease of learning, a lot of persistence and I never surrender.
 
-
-- 🌱 I’m currently learning **Typescript**
+About me...
 
 - 📫 How to reach me **nahueltomasmonserrat@gmail.com**
 
 - 🌐 Portfolio in progress...
 
-- 💻  Working at **soyHenry**
+- 👔 <a href="https://www.linkedin.com/in/nahuelmonserrat/">Linkedin</a>
 
 
----
-<h1 aling="center"> Projects </h1>
-<h2 aling="left"> 🌎 Mundi </h2>
-<p>I developed a SPA (Single Page Appllication) Using tecnologies like React, Redux and Css Native for frontend, the SPA consume data from REST COUNTRIES API across backend developed in Node.JS ussing Express.
-<a href='https://github.com/nahuelkbx/Mundi'> 🌎 For more info click here !</a>
-</p>
-
-![image](https://user-images.githubusercontent.com/73723295/137527482-15f33056-fac5-4fc8-bd02-72a7a5d964bf.png)
-
-<h2 aling="left"> 🍂 Olea </h2>
-<p>I developed a E-commerce with 6 developers, Using tecnologies like React, Redux, Css for the Frontend and for the Backend used Node.JS and Express. For the Database used POSTGRESQL + Sequelize
-<a href='https://somosolea.vercel.app/'> 🌱 Visit the page! </a>
-</p>
-
-![image](https://user-images.githubusercontent.com/73723295/138529591-e6795c04-469f-4136-9da2-1e0848fc3f54.png)
-
-</p>
 
 ---
+
 
 <h3 align="left">Some skills</h3>
 
