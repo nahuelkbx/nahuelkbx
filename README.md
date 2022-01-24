@@ -5,11 +5,11 @@ Software Developer & Tech Lead <a href="https://www.soyhenry.com/">soyHenry</a>
 
 About me...
 
-- 📫 How to reach me **nahueltomasmonserrat@gmail.com**
+📫 How to reach me **nahueltomasmonserrat@gmail.com**
 
-- 🌐 Portfolio in progress...
+🌐 Portfolio in progress...
 
-- 👔 <a href="https://www.linkedin.com/in/nahuelmonserrat/">Linkedin</a>
+👔 <a href="https://www.linkedin.com/in/nahuelmonserrat/">Linkedin</a>
 
 
 
