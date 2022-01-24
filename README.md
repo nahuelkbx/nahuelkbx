@@ -11,22 +11,13 @@ About me...
 
 👔 <a href="https://www.linkedin.com/in/nahuelmonserrat/">Linkedin</a>
 
-
-
 ---
 
+Some of my skills
 
-<h3 align="left">Some skills</h3>
+💻 Tech:**React, Redux, CSS, JavaScript, NodeJS, Express, PostgreSQL, Git, Bootstrap, Styled Components, TypeScript** 
 
-💻 Front end:**React, Redux, CSS and JavaScript** 
-
-💻 Back end:**NodeJS, Express** 
-
-💻 DataBase:**PostgreSQL**
-
-💻 Others:**Git, Bootstrap, Heroku**
-
-🤝 Soft Skills:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
+🤝 Soft:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
 
 ---
 
@@ -36,11 +27,5 @@ About me...
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/nahuelmonserrat//)
 
 ---
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelkbx&" alt="nahuelkbx" /></p>
-
-
-
 
 
