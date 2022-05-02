@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Nahuel Monserrat
-Software Developer & Tech Lead at <a href="https://www.soyhenry.com/">soyHenry</a>
+Software Developer & Henry Mentor at <a href="https://www.soyhenry.com/">soyHenry</a>
 
 > I am a software developer with ease of learning, a lot of persistence and I never surrender.
 
@@ -9,7 +9,7 @@ About me...
 
 🌐 Portfolio in progress...
 
-👔 <a href="https://www.linkedin.com/in/nahuelmonserrat/">Linkedin</a>
+👔 <a href="https://www.linkedin.com/in/nahuel-monserrat-b5a1b0199/">Linkedin</a>
 
 ---
 
