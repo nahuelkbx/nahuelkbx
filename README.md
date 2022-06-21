@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Nahuel Monserrat
-Software Developer & Henry Mentor at <a href="https://www.soyhenry.com/">soyHenry</a>
+Software Developer Analyst at Mercado Libre
 
 > I am a software developer with ease of learning, a lot of persistence and I never surrender.
 
