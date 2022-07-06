@@ -5,7 +5,7 @@ Software Developer Analyst at Mercado Libre
 
 About me...
 
-📫 How to reach me **nahueltomasmonserrat@gmail.com**
+📫 **nahueltomasmonserrat@gmail.com**
 
 🌐 https://www.nahuelmonserrat.com/
 
