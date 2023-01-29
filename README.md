@@ -15,7 +15,7 @@ About me...
 
 Some of my skills
 
-💻 Tech:**React, Redux, CSS, JavaScript, NodeJS, Express, PostgreSQL, Git, Bootstrap, Styled Components, TypeScript** 
+💻 Tech:**React, Redux, CSS, JavaScript, NodeJS, Express, PostgreSQL, Git, Bootstrap, Styled Components, TypeScript, Golang, Gin Gonic** 
 
 🤝 Soft:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
 
