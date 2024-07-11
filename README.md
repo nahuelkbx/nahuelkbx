@@ -3,8 +3,6 @@ Software Developer Analyst at Mercado Libre
 
 > I am a software developer with ease of learning, a lot of persistence and I never surrender.
 
-About me...
-
 📫 **nahueltomasmonserrat@gmail.com**
 <h3 align="left">Contact</h3>
 
